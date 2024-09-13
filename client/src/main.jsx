@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       domain="dev-5480yd8m1kj3bxbc.us.auth0.com"
       clientId="LODcZW7Sf8IXt16FAWm4EEEujpGWvvcZ"
       authorizationParams={{
-        redirect_uri: "http://localhost:5173",
+        redirect_uri: "https://sk-homes-phi.vercel.app/",
       }}
       audience="http://localhost:8001"
       scope="openid profile email"
