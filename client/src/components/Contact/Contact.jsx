@@ -12,8 +12,8 @@ const Contact = () => {
           <span className="orangeText">Our Contact Us</span>
           <span className="primaryText">Easy to contact us</span>
           <span className="secondaryText">
-            We always ready to help by providijng the best services for you. We
-            beleive a good blace to live can make your life better{" "}
+          We are always ready to assist by providing you with the best services.
+          <br /> We believe that a great place to live can truly enhance your quality of life.
           </span>
 
           <div className="flexColStart contactModes">

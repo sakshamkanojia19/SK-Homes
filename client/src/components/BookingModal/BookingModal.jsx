@@ -92,4 +92,4 @@ const BookingModal = ({ opened, setOpened, email, propertyId }) => {
   );
 };
 
-export default BookingModal;
+export default BookingModal;;

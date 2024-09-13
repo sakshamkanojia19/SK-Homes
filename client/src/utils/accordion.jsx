@@ -1,23 +1,25 @@
 import { HiShieldCheck } from "react-icons/hi";
 import { MdCancel, MdAnalytics } from "react-icons/md";
+
 const data = [
   {
-    icon: <HiShieldCheck/>,
-    heading: "Best interest rates on the market",
+    icon: <HiShieldCheck />,
+    heading: "Best Interest Rates on the Market",
     detail:
-      "Unlock incredible interest rates with our real estate financing options! Whether you're buying your dream home or investing in property, we offer competitive mortgage rates that help you get the most value for your investment. Our flexible plans are tailored to meet your needs, with minimal down payments and affordable monthly installments. Take advantage of our unbeatable rates and make your real estate goals a reality today",
+      "We offer competitive interest rates that are among the best in the market. Whether you're looking to finance a new home or refinance an existing loan, our low rates help you save money over time, ensuring maximum value for your investment.",
   },
   {
     icon: <MdCancel />,
-    heading: "Prevent unstable prices",
+    heading: "Prevent Unstable Prices",
     detail:
-      "Safeguard your real estate investments from market volatility. Our expert team provides strategic solutions to help you maintain stable property prices, ensuring long-term value and minimizing risk. With our guidance, you can confidently navigate fluctuations and secure the best deals without compromising your budget. Stay ahead of the market and protect your assets from unpredictable price changes today!",
+      "Our platform provides price stability, helping you avoid the volatility of fluctuating property markets. By offering transparent pricing and constant monitoring, we ensure that you are protected from sudden and unpredictable price changes.",
   },
   {
     icon: <MdAnalytics />,
-    heading: "Best price on the market",
+    heading: "Best Price on the Market",
     detail:
-      "Discover unbeatable real estate deals with the best prices available! We offer a range of properties at highly competitive rates, ensuring you get the most value for your investment. Whether you're buying, selling, or investing, our team is dedicated to finding the perfect property within your budget.Get the best market price and make your real estate dreams come true today!.",
+      "Using advanced analytics and real-time data, we ensure that you're getting the best possible price for your property. Our market insights allow us to offer competitive pricing that aligns with current market trends, giving you a strategic advantage.",
   },
 ];
+
 export default data;

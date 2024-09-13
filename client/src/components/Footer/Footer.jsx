@@ -8,10 +8,8 @@ const Footer = () => {
         <div className="flexColStart f-left">
           <img src="./logo2.png" alt="" width={120} />
           <span className="secondaryText">
-         At SK Homes Our vision is to create a world 
-         <br />
-         where everyone
-          can live in their ideal environment.
+          Our vision is to create the ideal
+          <br /> living environment for everyone
           </span>
         </div>
 

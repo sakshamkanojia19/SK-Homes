@@ -66,4 +66,4 @@ const BasicDetails = ({ prevStep, nextStep, propertyDetails, setPropertyDetails 
   );
 };
 
-export default BasicDetails;
+export default BasicDetails;;

@@ -35,4 +35,4 @@ const GeoCoderMarker = ({address}) => {
   )
 }
 
-export default GeoCoderMarker
+export default GeoCoderMarker;

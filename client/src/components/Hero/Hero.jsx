@@ -25,7 +25,8 @@ const Hero = () => {
           </div>
           <div className="flexColStart secondaryText flexhero-des">
           <span>Discover a wide range of properties that perfectly match your needs with ease.</span>
-          <span>Leave behind the challenges of finding your ideal home.</span>
+<span>Say goodbye to the challenges of finding your ideal home.</span>
+
           </div>
 
        

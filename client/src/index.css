@@ -135,7 +135,7 @@ a {
   --orange-gradient: linear-gradient(270deg, #ffb978 0%, #ff922d 100%);
   --blue: #d240ff;
   --lightBlue: #eeeeff;
-  --shadow: 0px 23px 21px -8px rgba(173, 69, 243, 0.25);
+  --shadow: 0px 23px 21px -8px rgba(136, 160, 255, 0.25);
 }
 
 * {

@@ -24,4 +24,4 @@ const Map = ({address,city,country}) => {
   )
 }
 
-export default Map
+export default Map;
