@@ -19,6 +19,7 @@
     "@mui/material": "^6.1.0",
     "@mui/x-date-pickers": "^7.17.0",
     "axios": "^1.4.0",
+    "base-64": "^1.0.0",
     "dayjs": "^1.11.9",
     "esri-leaflet-geocoder": "2.3.3",
     "framer-motion": "^10.8.5",
