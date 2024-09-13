@@ -1,0 +1,22 @@
+.properties-container{
+    gap: 2rem;
+}
+/* changing searchbar property according to properties page only  */
+
+.properties-container .search-bar{
+    /* clamp shortcut to min & max width */
+    width: clamp(12rem,100%, 28rem);
+    border-radius:30px;
+    border: 1px solid rgba(120,120,120,0.374);
+    flex-wrap: nowrap;
+}
+
+.properties-container .search-bar .button{
+   border-radius: 25px;
+   font-size: 12px;
+   padding: 10px 15px;
+}
+
+.properties-container .search-bar input{
+    width: 70%;
+}
